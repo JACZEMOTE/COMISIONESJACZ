@@ -148,11 +148,11 @@ a:hover {
   color: #FF0400;
 }
 .sliderP {
-  width: 940px;
-  max-width:788px;
+  width: 788px;
+  max-width:940px;
   padding-right: 0px;
-  margin-left: 0 auto;
-  margin-right: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 0 auto;
 }
 .slider {
