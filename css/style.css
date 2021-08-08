@@ -130,28 +130,19 @@ a:hover {
   color: #FFF;
 }
 
-.slider p {
-  text-align: center;
-  float: none;
-  font-weight: bold;
-  color: #FF0400;
-}
-
-.FPI  img {
-  display: block;
-  max-width: 100%;
-  float: none;
-  display: inline-block;
-  vertical-align: top;
-  padding: 10px 50px;
-  width: 250px;
-}
-
 .sliderP p {
   text-align: center;
   float: none;
   font-weight: bold;
   color: #FF0400;
+}
+.sliderP img {
+  width: 788px;
+  max-width:940px;
+  padding-right: 0px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin-top: 0 auto;
 }
 .sliderP {
   width: 788px;
@@ -162,28 +153,25 @@ a:hover {
   margin-top: 0 auto;
 }
 .slider {
-  width: 360px;
-  max-width:360px;
-  padding-right: 0px;
-  margin-left: 0 auto;
+  width: 580px;
+  max-width:580px;
+  padding: 10px;
+  float: left;
+}
+.sliderpub img {
+  width: 720px;
+  max-width:720px;
+  text-align: center;
   margin-right: 0 auto;
   margin-top: 0 auto;
-  float:left;
-  width: 31.5%;
-  float: left;
-  padding: 10px;
-  text-align: center;
-}
-
+}*/
 .slider img {
-  width: 360px;
-  max-width:360px;
+  width: auto;
   padding-right: 0px;
   margin-left: 0 auto;
   margin-right: 0 auto;
   margin-top: 0 auto;
 }*/
-
 .one-third {
   width: 31.5%;
   float: left;
