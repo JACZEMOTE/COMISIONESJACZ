@@ -130,6 +130,23 @@ a:hover {
   color: #FFF;
 }
 
+.slider p {
+  text-align: center;
+  float: none;
+  font-weight: bold;
+  color: #FF0400;
+}
+
+.FPI  img {
+  display: block;
+  max-width: 100%;
+  float: none;
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px 50px;
+  width: 250px;
+}
+
 .sliderP p {
   text-align: center;
   float: none;
@@ -172,6 +189,7 @@ a:hover {
   margin-right: 0 auto;
   margin-top: 0 auto;
 }*/
+
 .one-third {
   width: 31.5%;
   float: left;
@@ -344,4 +362,3 @@ footer.second p, .second a {
     width: 95%;
   }
 }
-
